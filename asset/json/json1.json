@@ -1,0 +1,49 @@
+
+
+{
+    "coord": {
+      "lon": 108.135,
+      "lat": 34.7653
+    },
+    "weather": [
+      {
+        "id": 600,
+        "main": "Snow",
+        "description": "light snow",
+        "icon": "13n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 270.68,
+      "feels_like": 268.58,
+      "temp_min": 270.68,
+      "temp_max": 270.68,
+      "pressure": 1032,
+      "humidity": 46,
+      "sea_level": 1032,
+      "grnd_level": 901
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.5,
+      "deg": 175,
+      "gust": 2.07
+    },
+    "snow": {
+      "1h": 0.22
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1734559545,
+    "sys": {
+      "country": "CN",
+      "sunrise": 1734565796,
+      "sunset": 1734601152
+    },
+    "timezone": 28800,
+    "id": 2000546,
+    "name": "Duma",
+    "cod": 200
+  }
